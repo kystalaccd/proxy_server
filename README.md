@@ -1,0 +1,2 @@
+# proxy_server
+接收来自web端的http请求，给设备准发websocket消息，接收设备websocket响应，再经过处理转发给web端
